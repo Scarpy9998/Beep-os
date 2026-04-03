@@ -69,6 +69,10 @@ python3 interface.py
 6. Этот гайд не отменяет остальных советов из этого файла. на самом деле мне очень лень было все переписывать ради гайда
 
 
+
+7. Если вы убедились что все работает, то советую убрать весь мусор. например мои личные логи и упоминания "Запятой" в промтах
+
+
 Планы на будущее
 
 На данный момент всё работает через API. Адаптация проекта под локальные нейронки пока только планируется. Также планируется добавить ещё несколько модулей:
@@ -171,6 +175,7 @@ python3 interface.py
 
 6. This guide does not supersede the other tips in this file. To be honest, I was too lazy to rewrite everything just for the guide
 
+7. Once you've made sure everything is working, I recommend deleting all the junk—for example, my personal logs and mentions of “Zapyataya” in the messages.
 
 Future Plans
 
